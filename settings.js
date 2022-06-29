@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
+//                              CL|Walker
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -42,8 +42,8 @@ global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://www.facebook.com/chathura.lakshan.712714' //Facebook!
+global.footer = 'CL|Walker' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
@@ -53,7 +53,7 @@ global.mess = { // Error Mesages
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: 'Pleas Wait.......',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
